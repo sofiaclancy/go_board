@@ -5,6 +5,7 @@ public class go_lab {
     
     static boolean blackPiece = true;
     static boolean playing = true;
+
     public static void main(String[] args) {
 
         Scanner scn = new Scanner(System.in);
